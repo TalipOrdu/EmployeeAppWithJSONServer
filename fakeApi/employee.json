@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "name": "serhat sayıcı",
+      "department": "saler",
+      "salary": 8400,
+      "id": 3
+    },
+    {
+      "name": "Talip Ordu",
+      "department": "Developer",
+      "salary": 18000,
+      "id": 4
+    }
+  ]
+}
